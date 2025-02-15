@@ -1,0 +1,10 @@
+The 1st aim is divided into two parts indicated by the directories.
+
+LS programs -> It contains programs for Linear dataset the datasets are in folder named as "datasets". There are 4 programs, to perform this aim we can directly execute main.py,
+by executing this the one-against-one approach perceptron classification task will execute successfully. The file perceptron and utils
+support to do this task. The file train_perceptron is used to classify points of just class1, class2, or class3 as provided in
+path of the file(it's not useful for one-against-one approach). The output are shown in one after other. When the first output window is
+closed then the 2nd output will be shown
+
+NLS programs -> Same kind of discription as for LS programs, but in this only one dataset is use for OAO(one-against-one) approach
+the datapoints are sepprated in main program then applied similar procedure as for LS programs
